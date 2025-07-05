@@ -1,0 +1,18 @@
+# 核心依赖
+torch
+transformers
+pillow
+
+# 可选加速库（GPU用户推荐）
+torchvision
+accelerate
+
+# 开发工具（调试/可视化）
+tqdm
+matplotlib
+
+# 生产环境补充
+numpy
+requests
+redis
+fasterapi
